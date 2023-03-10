@@ -1,2 +1,3 @@
 # count_label_num_
 统计标签的个数
+这样在标注label的时候可以知道标注进度
